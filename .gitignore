@@ -1,0 +1,18 @@
+# Obsidian 忽略规则
+.obsidian/plugins/
+.obsidian/themes/
+.obsidian/workspace
+.obsidian/graph.json
+.obsidian/hotkeys.json
+.obsidian/app.json
+.obsidian/core-plugins.json
+.obsidian/community-plugins.json
+
+# 缓存和临时文件
+*.tmp
+.DS_Store
+Thumbs.db
+
+# 如果你不想同步附件大文件（可选）
+# attachments/*.png
+# attachments/*.jpg
