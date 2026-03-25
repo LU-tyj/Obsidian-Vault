@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "69a0c86e5d58d21c",
+        "id": "57b0462509e5e763",
         "type": "tabs",
         "children": [
           {
-            "id": "2c365eea956a3eb4",
+            "id": "c275a98ce71e40e6",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -74,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "9889a9ffb3c3fd2c",
@@ -90,6 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "No Game No Life/Game Programming Patterns/3.1 Double Buffer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +100,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "3.1 Double Buffer 的反向链接列表"
             }
           },
           {
@@ -108,11 +109,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "No Game No Life/Game Programming Patterns/3.1 Double Buffer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "3.1 Double Buffer 的出链列表"
             }
           },
           {
@@ -150,15 +152,17 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "No Game No Life/Game Programming Patterns/4 Behavior Patterns/4.3 Type Object.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "4.3 Type Object 的大纲"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -178,8 +182,54 @@
   },
   "active": "06fa397707a52f7e",
   "lastOpenFiles": [
-    "未命名.md",
-    "未命名.base",
-    "欢迎.md"
+    "No Game No Life/Multiplayer/VoidMatrix 联机游戏开发基础/11 同步策略.md",
+    "No Game No Life/Multiplayer/Unity Network.md",
+    "No Game No Life/Multiplayer/VoidMatrix 联机游戏开发基础/1 联机游戏基础.md",
+    "No Game No Life/Game Programming Patterns/6 Optimization Patterns/6 Optimization Patterns.md",
+    "No Game No Life/Game Programming Patterns/6 Optimization Patterns/6.2 Dirty Flag.md",
+    "LLM/AlphaGenome - AI for better understanding the genome.md",
+    "No Game No Life/Multiplayer/VoidMatrix 联机游戏开发基础/12 帧同步与客户端表现优化技巧.md",
+    "No Game No Life/Multiplayer/VoidMatrix 联机游戏开发基础/10 协议选择 从TCP、UDP优劣到E-Net.md",
+    "No Game No Life/GAMES104/Lec13 Tool Chains.md",
+    "img/NGNL/GAMES104/Lec13/Commands.png",
+    "img/NGNL/GAMES104/Lec13/截屏2026-03-24 11.22.11.png",
+    "img/NGNL/GAMES104/Lec13/Field-value tree.png",
+    "img/NGNL/GAMES104/Lec13/截屏2026-03-24 10.58.57.png",
+    "img/NGNL/GAMES104/Lec13/Parse Asset File.png",
+    "img/NGNL/GAMES104/Lec13/截屏2026-03-24 10.56.02.png",
+    "img/NGNL/GAMES104/Lec13/MVVM2.png",
+    "img/NGNL/GAMES104/Lec13/截屏2026-03-24 10.32.15.png",
+    "img/NGNL/GAMES104/Lec13/MVVM.png",
+    "img/NGNL/GAMES104/Lec13/截屏2026-03-24 10.30.26.png",
+    "No Game No Life/GAMES104/GAMES104_PDF/GAMES104_Lecture11_Physics System_Applications.pdf",
+    "No Game No Life/GAMES104/Lec11 Physics System - Applications.md",
+    "img/NGNL/GAMES104/Lec13",
+    "No Game No Life/Game Programming Patterns/6 Optimization Patterns/6.1 Data Locality.md",
+    "No Game No Life/Game Programming Patterns/4 Behavior Patterns/4.3 Type Object.md",
+    "No Game No Life/Game Programming Patterns/5 Decoupling Patterns/5 Decoupling Patterns.md",
+    "No Game No Life/Game Programming Patterns/1 Introduction of GPP.md",
+    "No Game No Life/GAMES104/Lec12 Effects.md",
+    "No Game No Life/Game Programming Patterns/6 Optimization Patterns",
+    "No Game No Life/Game Programming Patterns/3 Sequencing Patterns/3.1 Double Buffer.md",
+    "No Game No Life/Game Programming Patterns/5 Decoupling Patterns/5.3 Service Locator.md",
+    "No Game No Life/Game Programming Patterns/2 Design Patterns Revisited/2.5 Singleton Pattern.md",
+    "LLM/Basic LLM.md",
+    "No Game No Life/Multiplayer/VoidMatrix 联机游戏开发基础/8 世界状态同步.md",
+    "No Game No Life/Multiplayer/VoidMatrix 联机游戏开发基础/9 联机的三大挑战.md",
+    "No Game No Life/Multiplayer/VoidMatrix 联机游戏开发基础/6 联机游戏架构.md",
+    "No Game No Life/Multiplayer/VoidMatrix 联机游戏开发基础/4 TCP 沾包拆包：从数据流中精准提取信息包.md",
+    "img/NGNL/GAMES104/Lec12",
+    "No Game No Life/GAMES104/Lec1 GAMES104 Introduction.md",
+    "No Game No Life/Game Programming Patterns/5 Decoupling Patterns/5.2 Event Queue.md",
+    "No Game No Life/Game Programming Patterns/2 Design Patterns Revisited/2.6 State Pattern.md",
+    "img/NGNL/GAMES104/Lec11",
+    "img/NGNL/GAMES104/未命名文件夹",
+    "No Game No Life/Game Programming Patterns/5 Decoupling Patterns",
+    "img/NGNL/GAMES104/Lec10",
+    "No Game No Life/Unity",
+    "img/NGNL/GAMES104/Lec9",
+    "未命名 2.canvas",
+    "未命名 1.canvas",
+    "未命名.canvas"
   ]
 }
