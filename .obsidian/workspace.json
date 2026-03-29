@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "57b0462509e5e763",
+        "id": "3ddc02e55dc3dd3d",
         "type": "tabs",
         "children": [
           {
-            "id": "c275a98ce71e40e6",
+            "id": "6e0319c963b4e5a0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "No Game No Life/Gameplay/Platformer.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "Platformer"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 308.5
   },
   "right": {
     "id": "9889a9ffb3c3fd2c",
@@ -180,8 +184,29 @@
       "bases:新建数据库": false
     }
   },
-  "active": "06fa397707a52f7e",
+  "active": "6e0319c963b4e5a0",
   "lastOpenFiles": [
+    "No Game No Life/GAMES104/Lec16 Basic Artificial Intelligence.md",
+    "No Game No Life/Gameplay/Platformer.md",
+    "No Game No Life/Gameplay/HFST.md",
+    "No Game No Life/Game Programming Patterns/6 Optimization Patterns/6.4 Spatial Partition.md",
+    "No Game No Life/GAMES104/Lec3 How to Build a Game World.md",
+    "No Game No Life/GAMES104/Lec15 Gameplay Complexity and Building Blocks.md",
+    "No Game No Life/GAMES101",
+    "No Game No Life/未命名.md",
+    "No Game No Life/Game Programming Patterns/6 Optimization Patterns/6.3 Object Pool.md",
+    "No Game No Life/Game Programming Patterns/6 Optimization Patterns/6.1 Data Locality.md",
+    "No Game No Life/GAMES104/Lec12 Effects.md",
+    "img/NGNL/GameProgrammingPatterns/ObjectPool/Memory.png",
+    "img/NGNL/GameProgrammingPatterns/ObjectPool/截屏2026-03-26 16.39.14.png",
+    "img/NGNL/GameProgrammingPatterns/ObjectPool",
+    "img/NGNL/GameProgrammingPatterns/未命名文件夹",
+    "No Game No Life/Game Programming Patterns/4 Behavior Patterns/4.1 Bytecode.md",
+    "LLM/Basic LLM.md",
+    "No Game No Life/GAMES104/GAMES104_PDF/GAMES104_Lecture15_Gameplay Complexity and Building Blocks.pdf",
+    "No Game No Life/GAMES104/Lec14 Tool Chains - Application & Advanced Topic.md",
+    "img/NGNL/GAMES104/Lec15",
+    "img/NGNL/GAMES104/Lec14",
     "No Game No Life/Multiplayer/VoidMatrix 联机游戏开发基础/11 同步策略.md",
     "No Game No Life/Multiplayer/Unity Network.md",
     "No Game No Life/Multiplayer/VoidMatrix 联机游戏开发基础/1 联机游戏基础.md",
@@ -199,35 +224,14 @@
     "img/NGNL/GAMES104/Lec13/截屏2026-03-24 10.56.02.png",
     "img/NGNL/GAMES104/Lec13/MVVM2.png",
     "img/NGNL/GAMES104/Lec13/截屏2026-03-24 10.32.15.png",
-    "img/NGNL/GAMES104/Lec13/MVVM.png",
-    "img/NGNL/GAMES104/Lec13/截屏2026-03-24 10.30.26.png",
     "No Game No Life/GAMES104/GAMES104_PDF/GAMES104_Lecture11_Physics System_Applications.pdf",
     "No Game No Life/GAMES104/Lec11 Physics System - Applications.md",
     "img/NGNL/GAMES104/Lec13",
-    "No Game No Life/Game Programming Patterns/6 Optimization Patterns/6.1 Data Locality.md",
     "No Game No Life/Game Programming Patterns/4 Behavior Patterns/4.3 Type Object.md",
     "No Game No Life/Game Programming Patterns/5 Decoupling Patterns/5 Decoupling Patterns.md",
     "No Game No Life/Game Programming Patterns/1 Introduction of GPP.md",
-    "No Game No Life/GAMES104/Lec12 Effects.md",
     "No Game No Life/Game Programming Patterns/6 Optimization Patterns",
-    "No Game No Life/Game Programming Patterns/3 Sequencing Patterns/3.1 Double Buffer.md",
-    "No Game No Life/Game Programming Patterns/5 Decoupling Patterns/5.3 Service Locator.md",
-    "No Game No Life/Game Programming Patterns/2 Design Patterns Revisited/2.5 Singleton Pattern.md",
-    "LLM/Basic LLM.md",
-    "No Game No Life/Multiplayer/VoidMatrix 联机游戏开发基础/8 世界状态同步.md",
-    "No Game No Life/Multiplayer/VoidMatrix 联机游戏开发基础/9 联机的三大挑战.md",
-    "No Game No Life/Multiplayer/VoidMatrix 联机游戏开发基础/6 联机游戏架构.md",
-    "No Game No Life/Multiplayer/VoidMatrix 联机游戏开发基础/4 TCP 沾包拆包：从数据流中精准提取信息包.md",
     "img/NGNL/GAMES104/Lec12",
-    "No Game No Life/GAMES104/Lec1 GAMES104 Introduction.md",
-    "No Game No Life/Game Programming Patterns/5 Decoupling Patterns/5.2 Event Queue.md",
-    "No Game No Life/Game Programming Patterns/2 Design Patterns Revisited/2.6 State Pattern.md",
-    "img/NGNL/GAMES104/Lec11",
-    "img/NGNL/GAMES104/未命名文件夹",
-    "No Game No Life/Game Programming Patterns/5 Decoupling Patterns",
-    "img/NGNL/GAMES104/Lec10",
-    "No Game No Life/Unity",
-    "img/NGNL/GAMES104/Lec9",
     "未命名 2.canvas",
     "未命名 1.canvas",
     "未命名.canvas"
