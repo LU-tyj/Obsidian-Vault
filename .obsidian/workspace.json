@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "No Game No Life/Gameplay/Platformer.md",
+                "file": "No Game No Life/Gameplay/MyCeleste.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Platformer"
+              "title": "MyCeleste"
             }
           }
         ]
@@ -186,8 +186,10 @@
   },
   "active": "6e0319c963b4e5a0",
   "lastOpenFiles": [
-    "No Game No Life/GAMES104/Lec16 Basic Artificial Intelligence.md",
+    "No Game No Life/GAMES104/Lec9 Animation System - Advanced Animation Technology.md",
+    "No Game No Life/Gameplay/MyCeleste.md",
     "No Game No Life/Gameplay/Platformer.md",
+    "No Game No Life/GAMES104/Lec16 Basic Artificial Intelligence.md",
     "No Game No Life/Gameplay/HFST.md",
     "No Game No Life/Game Programming Patterns/6 Optimization Patterns/6.4 Spatial Partition.md",
     "No Game No Life/GAMES104/Lec3 How to Build a Game World.md",
@@ -228,8 +230,6 @@
     "No Game No Life/GAMES104/Lec11 Physics System - Applications.md",
     "img/NGNL/GAMES104/Lec13",
     "No Game No Life/Game Programming Patterns/4 Behavior Patterns/4.3 Type Object.md",
-    "No Game No Life/Game Programming Patterns/5 Decoupling Patterns/5 Decoupling Patterns.md",
-    "No Game No Life/Game Programming Patterns/1 Introduction of GPP.md",
     "No Game No Life/Game Programming Patterns/6 Optimization Patterns",
     "img/NGNL/GAMES104/Lec12",
     "未命名 2.canvas",

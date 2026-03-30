@@ -4,6 +4,8 @@
 2. [Celeste](https://www.mattmakesgames.com) 学习蔚蓝的角色控制技巧
 3. [Git-amend 3D Platformer](https://github.com/adammyhre/3D-Platformer) 学习角色状态机的实现
 
+---
+
 ## 2 How to improve your jump
 ### 2.1 自建Col
 只使用 Unity Collider 中的 bound，而不使用其他因素。
@@ -30,5 +32,4 @@
 
 ### 2.3 Gravity
 区别空中和地面的重力作用
-
 
