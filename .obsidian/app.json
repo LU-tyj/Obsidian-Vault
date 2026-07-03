@@ -1,5 +1,7 @@
 {
   "promptDelete": false,
-  "openBehavior": "",
+  "newFileLocation": "current",
+  "newFileFolderPath": "",
+  "attachmentFolderPath": "./assets",
   "alwaysUpdateLinks": true
 }

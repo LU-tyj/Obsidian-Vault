@@ -18,4 +18,5 @@ Steps: Map Representation -> Path Finding -> Path Smoothing
 
 ### 1.3 Path Smoothing
 在找到路径后，如何优化路径，使其走起来更加自然。
-使用Funnel Algorithm。
+使用Funnel Algorithm。有种像视锥，然后看，找最短，如果看到终点，就直接到达。
+![[Funnel Algorithm.png]]
