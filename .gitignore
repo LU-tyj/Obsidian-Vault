@@ -1,12 +1,5 @@
 # Obsidian 忽略规则
-.obsidian/plugins/
-.obsidian/themes/
-.obsidian/workspace
-.obsidian/graph.json
-.obsidian/hotkeys.json
-.obsidian/app.json
-.obsidian/core-plugins.json
-.obsidian/community-plugins.json
+.obsidian/
 
 # Claude Code
 .claude/
