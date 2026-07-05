@@ -42,9 +42,9 @@ date: 2026-07-04
 - [x] [438. 找到字符串中所有字母异位词](https://leetcode.cn/problems/find-all-anagrams-in-a-string/) **[HOT100]** ✅ 2026-07-04
 - [x] [3. 无重复字符的最长子串](https://leetcode.cn/problems/longest-substring-without-repeating-characters/) **[HOT100]** ✅ 2026-07-04
 - [x] [76. 最小覆盖子串](https://leetcode.cn/problems/minimum-window-substring/) **[HOT100]** ✅ 2026-07-04
-- [ ] [1456. 定长子串中元音的最大数目](https://leetcode.cn/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) `1263`
-- [ ] [1343. 大小为 K 且平均值大于等于阈值的子数组数目](https://leetcode.cn/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) `1317`
-- [ ] [3090. 每个字符最多出现两次的最长子字符串](https://leetcode.cn/problems/maximum-length-substring-with-two-occurrences/) `1329`
+- [x] [1456. 定长子串中元音的最大数目](https://leetcode.cn/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) `1263` ✅ 2026-07-05
+- [x] [1343. 大小为 K 且平均值大于等于阈值的子数组数目](https://leetcode.cn/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) `1317` ✅ 2026-07-05
+- [x] [3090. 每个字符最多出现两次的最长子字符串](https://leetcode.cn/problems/maximum-length-substring-with-two-occurrences/) `1329` ✅ 2026-07-05
 - [ ] [2090. 半径为 k 的子数组平均值](https://leetcode.cn/problems/k-radius-subarray-averages/) `1358`
 - [ ] [2379. 得到 K 个黑块的最少涂色次数](https://leetcode.cn/problems/minimum-recolors-to-get-k-consecutive-black-blocks/) `1360`
 - [ ] [1052. 爱生气的书店老板](https://leetcode.cn/problems/grumpy-bookstore-owner/) `1418`
