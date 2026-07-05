@@ -1,10 +1,17 @@
 ---
-title: "struct与class的区别"
+title: struct与class的区别
 category: Csharp语言基础
-tags: [Csharp, Unity, 网易互娱, 值类型, 引用类型]
+tags:
+  - Csharp
+  - Unity
+  - 网易互娱
+  - 值类型
+  - 引用类型
 frequency: ⭐⭐
 difficulty: 中等
-companies: [网易互娱, 网易雷火]
+companies:
+  - 网易互娱
+  - 网易雷火
 status: new
 last_reviewed:
 next_review:
