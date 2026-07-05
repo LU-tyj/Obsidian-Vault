@@ -8,6 +8,10 @@
 .obsidian/core-plugins.json
 .obsidian/community-plugins.json
 
+# Claude Code
+.claude/
+.claudian/
+
 # 缓存和临时文件
 *.tmp
 .DS_Store
